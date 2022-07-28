@@ -26,8 +26,6 @@ public static class EventManager
     public static event DoubleJumpImageHandler onShowDoubleJumpE;
     public static void OnShowDoubleJumpIcon() { if (onShowDoubleJumpE != null) onShowDoubleJumpE(); }
 
-
-
     //EventManager.OnPressureButtonPushed(id);
     //EventManager.onPressureButtonE += OnPressureButtonPushed;
     //EventManager.onPressureButtonE -= OnPressureButtonPushed;

@@ -10,7 +10,6 @@ public class Lift : MonoBehaviour {
     // Start is called before the first frame update
     void Start() {
         startingPosY = transform.position.y;
-        //StartCoroutine(StartLifting());
     }
 
     // Update is called once per frame

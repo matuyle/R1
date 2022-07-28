@@ -6,6 +6,7 @@ public class PressureButton : MonoBehaviour
 {
     public int buttonId = 0;
     float maxY;
+
     private void Awake() {
         maxY = transform.position.y;   
     }
