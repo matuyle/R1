@@ -5,7 +5,7 @@ Game is created to test out some game mechanics. Feel free to copy the code :)
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Matthew Logan
+Copyright (c) 2022 Martin Üle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
